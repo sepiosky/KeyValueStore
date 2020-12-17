@@ -1,4 +1,4 @@
-# Gossip Membership Protocol
+# Key-Value Database
 Implementation of Fault-Tolerant Key-Value Store
 
 this is final programming assignment of [Cloud Computing Concepts, Part 2 (Coursera)](https://www.coursera.org/learn/cloud-computing-2?specialization=cloud-computing) (for full specifications of project you can read `mp2_specifications.pdf`)
