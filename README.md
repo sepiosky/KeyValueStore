@@ -19,7 +19,7 @@ this system uses [Gossip Membership Protocol](https://github.com/sepiosky/Gossip
 you can run tests provided in `/testcases/*.conf`:
 ```
 make
-./Aplication ./testcases/msgdropsinglefailure.conf
+./Aplication ./testcases/read.conf
 ```
 
 You can run all testcases using `run.sh` and check results in `.log` files.
